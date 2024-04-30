@@ -10,5 +10,6 @@ Ten projekt zawiera pliki konfiguracyjne do ustawienia stałego IP, maski siecio
 - **Maska sieciowa**: Określenie maski podsieci, wspierającej komunikację w obrębie lokalnej sieci.
 - **Stałe DNS**: Ustawienie preferowanych serwerów DNS, co jest kluczowe dla szybkiego i stabilnego rozwiązywania nazw domen.
 
+
 **Pamiętaj o:**
 sudo systemctl restart network.service
